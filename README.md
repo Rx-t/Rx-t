@@ -36,17 +36,23 @@
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-</div>
-
-
-<div>
-<h3 align="left">My OS and distribution</h3>
+  
+  
+  
+  
+  
+  <h3 align="center">My OS and distribution</h3>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-t&show_icons=true&locale=en&layout=compact" alt="rx-t" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rx-t&show_icons=true&locale=en" alt="rx-t" /></p>
