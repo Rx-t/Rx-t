@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rx</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rx-t&label=Profile%20views&color=0e75b6&style=flat" alt="rx-t" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rx-t" alt="rx-t" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,12 +34,8 @@
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-  
-  
-  
-  
-  <h3 align="center">My OS and distribution</h3>
+<br>
+<h3 align="center">My OS and distribution</h3>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
