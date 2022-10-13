@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tambadou Tidiane</h1>
+<h1 align="center">Hi 👋, I'm Rx</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rx-t&label=Profile%20views&color=0e75b6&style=flat" alt="rx-t" /> </p>
