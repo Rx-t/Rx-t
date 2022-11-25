@@ -29,6 +29,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
   
+<h3 align="left">I already use👽</h3>
+<img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
+ 
+  
 My OS and distribution🤖
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,4 +51,4 @@ My OS and distribution🤖
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rx-t&show_icons=true&locale=en" alt="rx-t" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rx-t&" alt="rx-t" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
