@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KreYze alias Krz</h1>
+<h1 align="center">Hi 👋, I'm KreYze alias Krz <img src="https://www.arkhane-asylum.fr/wp-content/uploads/2016/11/adventure-time.png" alt=""></h1>
 <h3 align="center">A passionate developer</h3>
 
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">I  use 👽</h3>
 
-<img src="https://www.arkhane-asylum.fr/wp-content/uploads/2016/11/adventure-time.png" alt="">
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
