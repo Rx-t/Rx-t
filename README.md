@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KreYze alias Krz <img src="https://www.arkhane-asylum.fr/wp-content/uploads/2016/11/adventure-time.png" alt=""></h1>
+<h1 align="center">Hi 👋, I'm KreYze alias Krz</h1>
 <h3 align="center">A passionate developer</h3>
 
 
