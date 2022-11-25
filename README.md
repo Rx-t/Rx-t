@@ -51,4 +51,4 @@ My OS and distribution🤖
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rx-t&show_icons=true&locale=en" alt="rx-t" /></p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
