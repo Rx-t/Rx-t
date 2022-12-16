@@ -29,7 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
   
-<h3 align="left">I already use👽</h3>
+<h3 align="left">I already used 👽</h3>
 <img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
  
   
